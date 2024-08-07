@@ -1,0 +1,21 @@
+const number2 = document.createElement("p")
+num.appendChild(number2)
+number2.textContent="6"
+number2.style.border="1px solid"
+number2.style.width="13%"
+number2.style.display="flex"
+number2.style.justifyContent="center"
+number2.style.alignItems="center"
+number2.style.fontSize="80px"
+number2.style.backgroundColor="black"
+number2.style.color="white"
+number2.style.height="15%"
+number2.style.marginTop="-1px"
+number2.style.borderRadius="50%"
+
+number2.addEventListener("click",()=>{
+    // number2.textContent = parseInt(number2.textContent)+1
+    spam.textContent  = number2.textContent
+
+})
+
